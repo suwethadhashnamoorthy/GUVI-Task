@@ -1,0 +1,8 @@
+    Write a blog on Difference between HTTP1.1 vs HTTP2
+
+
+   HTTP  -->  Hyper Text Transfer Protocol
+
+HTTP1.1 is loads a single request forevery TCP Protocol and It's the page loads slower than HTTP2. HTTP is an Sensitive and take care the web page with safely. 
+
+HTTP2 is a using a more advance than HTTP1.1 , HTTP2 is improved speed over HTTP1.1 and It's instead of textual meaning it's more compact and travels are faster on the wire 
