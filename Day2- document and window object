@@ -1,0 +1,24 @@
+
+
+		1. Write a differnce between Document and Window Object
+
+
+Document Object: 
+
+		Document windows are typically used for the display and modification of source code or text.
+		The document object is create for web pages,it represent a web page that is loaded in the browser. By accessing the document object, we can access the element in the HTML document. With the help of document objects, we can add dynamic content to our web page and also it's a static content. The document object can be accessed with a just document. It is loaded inside the window. It's a object of window. All the tags, elements with attributes in HTML are part of the document.
+
+	Document: 
+
+		<!DOCTYPE html> --> It returns the document’s doctype
+		<head>  --> It returns the head element of the document.
+		<title> --> It returns the title element of the document.
+		<body> --> It returns the contents of the body element.
+		<script> --> It returns all script elements present in the document.
+		URL --> It returns the complete URL of the document.
+		Anchor Tag --> It returns all <a> elements that have a name attribute.
+		Images --> It returns the collection of elements <img> in the document.
+
+Window Object:
+
+		 The window object is the top most object of the DOM. the window object represents an open window in a browser or frame that displays the contents of the webpage. Whenever a window appears on the screen to display the contents of the document, the window object is created. It is the very first object that is loaded in the browser. It's a object of brower. Global objects, function, and variables of JavaScript are members of the window object.
